@@ -1,6 +1,6 @@
 # Awesome-dex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Decentralized Exchange(DEX)， Decentralized Exchange Protocol and Wallet resources for developers
+A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wallet resources for developers
 
 > All lists sort by initials
 
@@ -86,3 +86,7 @@ A curated list of Decentralized Exchange(DEX)， Decentralized Exchange Protocol
   - [Trust](https://trustwalletapp.com/)
 
 - Desktop Wallets
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
